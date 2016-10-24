@@ -1,0 +1,7 @@
+created: 20161024132840358
+modified: 20161024133018568
+tags: 
+title: Gaussian Processes
+type: text/vnd.tiddlywiki
+
+A Gaussian Process is a collection of random variables, any finite number of which have a joint Gaussian distribution.
